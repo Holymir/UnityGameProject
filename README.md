@@ -1,4 +1,4 @@
-Simple (for now ) Game for learning Unity and Universe
+Simple (for now) game for learning Unity and Universe
 
 Game Concept
 .
